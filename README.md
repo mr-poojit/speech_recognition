@@ -11,3 +11,7 @@
 <br>Continuous Listening: Implement a loop that continuously listens for audio input using the microphone.<br>
 <br>Speech-to-Text Conversion: Utilize Google's speech recognition API to convert the captured audio into text.<br>
 <br>User Interaction: Print the recognized text and terminate the program if the user says the keyword "close".<br>
+<br>
+<br>
+**Result:**
+
